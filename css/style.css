@@ -96,12 +96,13 @@ main i {
 /* random # */
 .random {
     color: #9c9c9c;
-    font-size: 40px;
+    font-size: 35px;
 }
 /* text */
 .text {
-    font-size: 20px;
+    font-size: 18px;
     padding: 5px;
+    margin-top: 23px;
 }
 /* logo */
 .logo {

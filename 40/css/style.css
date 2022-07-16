@@ -1,0 +1,112 @@
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img {
+    width: 100%;
+}
+/* HEADER */
+header {
+    background-color: #1f2565;
+    height: 60px;
+}
+header i {
+    color: white;
+    padding: 20px;
+}
+.header-bottom {
+    background-color: #fbc740;
+    height: 45px;
+}
+.header-bottom i {
+    color: white;
+}
+/* main */
+main i {
+    font-size: 20px;
+    padding-top: 10px;
+}
+.data {
+    margin-bottom: 9px;
+}
+.size {
+    font-size: 25px;
+    color: grey;
+}
+/* qr */
+.qr {
+    margin-top: 50px;
+    width: 40%;
+}
+.size-sm {
+    font-size: 18px;
+    color: grey;
+}
+.padding {
+    padding-top: 20px;
+    position: relative;
+}
+.padding i {
+    font-weight: 900;
+    color: green;
+    font-size: 40px;
+    position: absolute;
+    top: 3px;
+    right: 0;
+}
+.box {
+    width: 100%;
+}
+.green {
+    height: 50px;
+    background-color: green;
+    margin-bottom: 5px;
+}
+.grey {
+    background-color: #eeeeee;
+}
+.box span {
+    padding: 8px;
+    font-size: 25px;
+    font-weight: 400;
+}
+/* data oggi attiv */
+.oggi {
+    padding: 9px;
+    font-size: 25px;
+    color: grey;
+}
+.sizeNew {
+    font-size: 20px;
+}
+.grigio {
+    color: grey;
+}
+.relative {
+    position: relative;
+}
+.euro {
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 30px;
+} 
+/* random # */
+.random {
+    color: #9c9c9c;
+    font-size: 35px;
+}
+/* text */
+.text {
+    font-size: 18px;
+    padding: 5px;
+    margin-top: 23px;
+}
+/* logo */
+.logo {
+    width: 60%;
+    margin-top: 20px;
+    margin-bottom: 90px;
+}
